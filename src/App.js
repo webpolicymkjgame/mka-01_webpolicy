@@ -86,7 +86,7 @@ function HomePage() {
           <h2>Contact Us</h2>
           <p>
             If you have any questions about this Privacy Policy, request support, please contact us at:<br />
-            <a href="mailto: dirumahajacorona@gmail.com"> dirumahajacorona@gmail.com</a><br />
+            <a href="mailto: bounouardriss.ad@gmail.com"> bounouardriss.ad@gmail.com</a><br />
             <span style={{ display: 'inline-block', marginTop: '10px' }}>
               🏠  Minh Thuan, Vu Ban, Nam Dinh, Vietnam (VN)
             </span>
